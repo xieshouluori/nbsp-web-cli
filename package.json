@@ -1,0 +1,31 @@
+{
+  "name": "nbsp-web-cli",
+  "version": "1.0.2",
+  "description": "nbsp前端脚手架工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "nbsp": "bin/nbsp.js"
+  },
+  "bin": {
+    "nbsp": "bin/nbsp.js"
+  },
+  "author": "王二丽 <wangerli@finupgroup.com>",
+  "license": "ISC",
+  "engines": {
+    "node": ">=9.0"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "execa": "^1.0.0",
+    "fs-extra": "^7.0.1",
+    "gh-clone": "^2.0.1",
+    "inquirer": "^6.3.1",
+    "lodash.clonedeep": "^4.5.0",
+    "ora": "^3.4.0",
+    "semver": "^6.0.0",
+    "string.prototype.padstart": "^3.0.0",
+    "validate-npm-package-name": "^3.0.0"
+  }
+}
