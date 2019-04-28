@@ -2,14 +2,17 @@
   "name": "nbsp-web-cli",
   "version": "1.0.2",
   "description": "nbsp前端脚手架工具",
-  "main": "index.js",
-  "scripts": {
-    "test": "npm run test",
-    "nbsp": "bin/nbsp.js"
-  },
   "bin": {
     "nbsp": "bin/nbsp.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xieshouluori/nbsp-web-cli.git",
+  },
+  "keywords": [
+    "nuxt",
+    "cli"
+  ],
   "author": "王二丽 <wangerli@finupgroup.com>",
   "license": "ISC",
   "engines": {
