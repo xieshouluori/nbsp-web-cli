@@ -1,6 +1,6 @@
 {
   "name": "nbsp-web-cli",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "description": "nbsp前端脚手架工具",
   "bin": {
     "nbsp": "bin/nbsp.js"
@@ -14,7 +14,7 @@
     "cli"
   ],
   "author": "王二丽 <wangerli@finupgroup.com>",
-  "license": "ISC",
+  "license": "MIT",
   "engines": {
     "node": ">=9.0"
   },
