@@ -1,13 +1,13 @@
 {
   "name": "nbsp-web-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "nbsp前端脚手架工具",
   "bin": {
     "nbsp": "bin/nbsp.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xieshouluori/nbsp-web-cli.git",
+    "url": "git+https://github.com/xieshouluori/nbsp-web-cli.git"
   },
   "keywords": [
     "nuxt",
